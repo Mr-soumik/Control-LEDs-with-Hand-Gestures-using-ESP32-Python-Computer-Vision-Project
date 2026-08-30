@@ -6,7 +6,7 @@ A real-time computer vision and embedded systems project that detects hand gestu
 
 - YouTube: [@techtadka360official](https://youtube.com/@techtadka360official?si=GdlIntZKv30kPgBk)
 - Instagram: [@techtadka360official](https://www.instagram.com/techtadka360official?igsh=cWR4bnhjdWw1MHdh)
-- Facebook: [TechTadka360](https://www.facebook.com/share/1EkKAJNLdB/
+- Facebook: https://www.facebook.com/share/1EkKAJNLdB/
 ---
 
 ## 📌 Features
